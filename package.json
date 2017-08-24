@@ -1,6 +1,6 @@
 {
   "name": "myutiltool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "个人工具包",
   "repository": "git@github.com:anryzhang/myutiltool.git",
   "main": "index.js",
